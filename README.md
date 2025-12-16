@@ -5,3 +5,7 @@
 4. Create a pull request
 5. Deadline on Tuesday 10:00 pm 16/12/2025
 6. Good Luck :)
+
+# Task
+
+project link to be submitted: https://github.com/MarkozaMan/college
